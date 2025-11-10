@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ConverJsonFiles.iml" filepath="$PROJECT_DIR$/.idea/ConverJsonFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AimLabs.iml" filepath="$PROJECT_DIR$/AimLabs.iml" />
     </modules>
   </component>
 </project>
