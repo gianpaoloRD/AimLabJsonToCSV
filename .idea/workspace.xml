@@ -7,12 +7,41 @@
     <list default="true" id="a7529aca-d8bc-4202-b3b3-d584318998eb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GetStatsFromAnalyticsCSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/GetStatsFromAnalyticsCSV.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input/OmniSenseSettingsLOGI.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/OmniSenseSettingsLOGI.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input/OmniSenseSettingsOFF.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/OmniSenseSettingsOFF.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input/OmniSenseSettingsON.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/OmniSenseSettingsON.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input/play_01.manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/play_01.manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input/rob.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/rob.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/OmniSenseSettingsLOGI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/OmniSenseSettingsOFF.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Players/P001/Session1/OmniSenseSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/OmniSenseSettingsON.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/play_01.manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/rob.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logitech/OmniSenseSettingsLOGI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logitech/play_01.analytics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logitech/play_01.manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logitech/play_02.analytics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logitech/play_02.manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logitech/play_03.analytics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logitech/play_03.manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logitech/play_05.analytics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logitech/play_05.manifest.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ManifestConvertToCSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/ManifestConvertToCSV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-OFF/OmniSenseSettingsOFF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-OFF/play_01.analytics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-OFF/play_01.manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-OFF/play_02.analytics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-OFF/play_02.manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-OFF/play_03.analytics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-OFF/play_03.manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-OFF/play_05.analytics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-OFF/play_05.manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-ON/OmniSenseSettingsON.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-ON/play_01.analytics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-ON/play_01.manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-ON/play_02.analytics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-ON/play_02.manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-ON/play_03.analytics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-ON/play_03.manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-ON/play_04.analytics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-ON/play_04.manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-ON/play_05.analytics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmniSense-ON/play_05.manifest.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/OmnisenseConvertToCSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/OmnisenseConvertToCSV.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +106,7 @@
       <recent name="$PROJECT_DIR$/Input" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Data/Players/P001/Session1" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -227,7 +257,7 @@
       <workItem from="1762873973385" duration="3246000" />
       <workItem from="1762947110267" duration="11000" />
       <workItem from="1762947126480" duration="1435000" />
-      <workItem from="1763462932372" duration="1704000" />
+      <workItem from="1763462932372" duration="2692000" />
     </task>
     <servers />
   </component>
@@ -235,14 +265,14 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AimLabs$JsonConvert.coverage" NAME="JsonConvert Coverage Results" MODIFIED="1762526780109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AimLabs$ManifestConvertToCSV.coverage" NAME="ManifestConvertToCSV Coverage Results" MODIFIED="1762876688641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AimLabs$OmnisenseConvertToCSV.coverage" NAME="OmnisenseConvertToCSV Coverage Results" MODIFIED="1762874010721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AimLabs$CleaingJson.coverage" NAME="CleaingJson Coverage Results" MODIFIED="1762525596934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AimLabs$GetStats.coverage" NAME="GetStats Coverage Results" MODIFIED="1762774145810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AimLabs$OmnisenseReadable.coverage" NAME="OmnisenseConvertToCSV Coverage Results" MODIFIED="1762781760397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AimLabs$ConverAnalytics.coverage" NAME="ConverAnalytics Coverage Results" MODIFIED="1762526533607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AimLabs$Doctests_in_ManifestConvertToCSV.coverage" NAME="Doctests in ManifestConvertToCSV Coverage Results" MODIFIED="1762876684007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AimLabs$TakeDataFromManifestCSV.coverage" NAME="TakeDataFromManifestCSV Coverage Results" MODIFIED="1762876708895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AimLabs$ConverAnalytics.coverage" NAME="ConverAnalytics Coverage Results" MODIFIED="1762526533607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AimLabs$OmnisenseReadable.coverage" NAME="OmnisenseConvertToCSV Coverage Results" MODIFIED="1762781760397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AimLabs$Doctests_in_ManifestConvertToCSV.coverage" NAME="Doctests in ManifestConvertToCSV Coverage Results" MODIFIED="1762876684007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AimLabs$JsonConvert.coverage" NAME="JsonConvert Coverage Results" MODIFIED="1762526780109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AimLabs$ManifestConvertToCSV.coverage" NAME="ManifestConvertToCSV Coverage Results" MODIFIED="1762876688641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AimLabs$OmnisenseConvertToCSV.coverage" NAME="OmnisenseConvertToCSV Coverage Results" MODIFIED="1763466096537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

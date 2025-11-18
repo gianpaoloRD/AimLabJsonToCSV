@@ -50,6 +50,6 @@ def main(input_path: Path, output_path: Path):
 
 
 if __name__ == "__main__":
-    input_file = Path("aimlab_sample.csv")
-    output_file = Path("DataExtractedFromManifest.csv")
+    input_file = Path("output/DataPlayersP001Session1_stats.csv")
+    output_file = Path("output/DataPlayersP001Session1_stats.csv")
     main(input_file, output_file)
