@@ -6,10 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="a7529aca-d8bc-4202-b3b3-d584318998eb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.~lock.aimlab_sample.csv#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataExtractedFromManifest.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataExtractedFromManifest.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetStatsFromAnalyticsCSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/GetStatsFromAnalyticsCSV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/OmniSenseSettingsLOGI.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/OmniSenseSettingsLOGI.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/OmniSenseSettingsOFF.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/OmniSenseSettingsOFF.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/OmniSenseSettingsON.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/OmniSenseSettingsON.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/play_01.manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/play_01.manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/rob.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/rob.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ManifestConvertToCSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/ManifestConvertToCSV.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aimlab_sample.csv" beforeDir="false" afterPath="$PROJECT_DIR$/aimlab_sample.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmnisenseConvertToCSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/OmnisenseConvertToCSV.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,6 +227,7 @@
       <workItem from="1762873973385" duration="3246000" />
       <workItem from="1762947110267" duration="11000" />
       <workItem from="1762947126480" duration="1435000" />
+      <workItem from="1763462932372" duration="1704000" />
     </task>
     <servers />
   </component>

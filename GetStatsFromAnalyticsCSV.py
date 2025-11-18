@@ -167,7 +167,7 @@ def write_series_csv(path: Path, series_rows: list[dict], summary: dict):
 # Main workflow
 # -------------------------------
 def main():
-    # Input and output file paths
+    # Data and output file paths
     src = Path("adapting/play_01.pretty.json")
     out_csv = Path("adapting/stats_all.csv")
 
