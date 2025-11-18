@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7529aca-d8bc-4202-b3b3-d584318998eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TakeDataFromManifestCSV.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.~lock.OmniSenseSettingsLOGI.csv#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.~lock.OmniSenseSettingsOFF.csv#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.~lock.OmniSenseSettingsON.csv#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.~lock.aimlab_sample.csv#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataExtractedFromManifest.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataExtractedFromManifest.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManifestConvertToCSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/ManifestConvertToCSV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aimlab_sample.csv" beforeDir="false" afterPath="$PROJECT_DIR$/aimlab_sample.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,40 +34,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Doctests in ManifestConvertToCSV.executor": "Run",
-    "Python.CleaingJson.executor": "Run",
-    "Python.ConverAnalytics.executor": "Run",
-    "Python.GetStats.executor": "Run",
-    "Python.JsonConvert.executor": "Run",
-    "Python.ManifestConvertToCSV.executor": "Run",
-    "Python.OmnisenseConvertToCSV.executor": "Run",
-    "Python.OmnisenseReadable.executor": "Run",
-    "Python.TakeDataFromManifestCSV.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/gianpaolop/Documents/AimlabsCode/AimLabs/Input",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Doctests in ManifestConvertToCSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CleaingJson.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConverAnalytics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GetStats.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JsonConvert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ManifestConvertToCSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OmnisenseConvertToCSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OmnisenseReadable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TakeDataFromManifestCSV.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/gianpaolop/Documents/AimlabsCode/AimLabs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Input" />
@@ -205,8 +205,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
@@ -220,7 +220,9 @@
       <workItem from="1762452294369" duration="1594000" />
       <workItem from="1762518197353" duration="13202000" />
       <workItem from="1762773824426" duration="5741000" />
-      <workItem from="1762873973385" duration="2132000" />
+      <workItem from="1762873973385" duration="3246000" />
+      <workItem from="1762947110267" duration="11000" />
+      <workItem from="1762947126480" duration="1435000" />
     </task>
     <servers />
   </component>
@@ -229,13 +231,13 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AimLabs$JsonConvert.coverage" NAME="JsonConvert Coverage Results" MODIFIED="1762526780109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AimLabs$ManifestConvertToCSV.coverage" NAME="ManifestConvertToCSV Coverage Results" MODIFIED="1762874061880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AimLabs$ManifestConvertToCSV.coverage" NAME="ManifestConvertToCSV Coverage Results" MODIFIED="1762876688641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AimLabs$OmnisenseConvertToCSV.coverage" NAME="OmnisenseConvertToCSV Coverage Results" MODIFIED="1762874010721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AimLabs$CleaingJson.coverage" NAME="CleaingJson Coverage Results" MODIFIED="1762525596934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AimLabs$GetStats.coverage" NAME="GetStats Coverage Results" MODIFIED="1762774145810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AimLabs$OmnisenseReadable.coverage" NAME="OmnisenseConvertToCSV Coverage Results" MODIFIED="1762781760397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AimLabs$ConverAnalytics.coverage" NAME="ConverAnalytics Coverage Results" MODIFIED="1762526533607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AimLabs$Doctests_in_ManifestConvertToCSV.coverage" NAME="Doctests in ManifestConvertToCSV Coverage Results" MODIFIED="1762775678855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AimLabs$TakeDataFromManifestCSV.coverage" NAME="TakeDataFromManifestCSV Coverage Results" MODIFIED="1762875431704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AimLabs$Doctests_in_ManifestConvertToCSV.coverage" NAME="Doctests in ManifestConvertToCSV Coverage Results" MODIFIED="1762876684007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AimLabs$TakeDataFromManifestCSV.coverage" NAME="TakeDataFromManifestCSV Coverage Results" MODIFIED="1762876708895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

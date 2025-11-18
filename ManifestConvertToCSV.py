@@ -159,7 +159,7 @@ def main():
       2. Flatten it
       3. Save it as CSV
     """
-    json_path = Path("Input/play_01.manifest.json")  # Input file path
+    json_path = Path("Input/rob.json")  # Input file path
     csv_path = Path("aimlab_sample.csv")    # Output file path
 
     # Step 1: Load
