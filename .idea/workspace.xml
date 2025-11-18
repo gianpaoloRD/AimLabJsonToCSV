@@ -80,7 +80,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TakeDataFromManifestCSV">
+  <component name="RunManager">
     <configuration name="GetStatsFromAnalyticsCSV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AimLabs" />
       <option name="ENV_FILES" value="" />
